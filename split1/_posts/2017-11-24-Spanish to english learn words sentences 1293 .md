@@ -17,3 +17,6 @@ How to learn English words and sentences for Spanish speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2018-05-27-Spanish to english learn words sentences 1109 .md%})
+ 
